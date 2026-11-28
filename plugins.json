@@ -2,9 +2,9 @@
     "version": 1,
     "plugins": [
         {
-            "id": "ophim",
-            "name": "OPhim",
-            "version": "1.0.4",
+            "id": "duong",
+            "name": "",
+            "version": "1.0.1",
             "scriptUrl": "https://raw.githubusercontent.com/changcanno1/proplayer/refs/heads/main/VAXTV_plugins.js",
             "iconUrl": "https://raw.githubusercontent.com/jmcfree921/Duongtv/refs/heads/main/Duong_plugins.js"
         }
